@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        
+        <h1>Grocery Shopping</h1>
+        <p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/chocolates.png" alt="Yummy Pack of Chocolates" width="190">
+        </p>
+    
+    <h2>Fruits</h2>
+    <img src ="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/berries.png" alt="A bunch of different berries" width="130"> 
+    
+    <ul>
+        <li>Strawberries</li>
+        <li>Pineapples</li>
+        <li>Cherries</li>
+        <li>Green Apples</li>
+        <li>Plums</li>
+    </ul>
+    
+    <h2>Veggies</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/tomatoes.png" width="130">
+    
+    <ul>
+        <li>Tomatoes 
+        <li>Lettuce
+        <li>Pickles
+        <li>Cucumbers
+        <li>Onions
+    </ul>
+    
+        <h2>Dairy</h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/ice-cream.png" width="130">
+        <ul>
+            <li>Colby Jack Cheese 
+            <li>Pepper Jack Cheese
+            <li>Cream Cheese 
+            <li>Ice Cream
+            <li>Almond Milk
+        </ul>
+        
+        <h2>Snacks</h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/potato-chips.png" width="130">
+        
+        <ul>
+            <li>Gushers
+            <li>Hot Flamin Cheetohs
+            <li>Cheez-Its
+            <li>Welch's
+            <li>Pocky
+        </ul>
+    
+    <h2>Drinks</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/croissant.png" width= "130">
+    <ul>
+        <li>Water 
+        <li>Orange Juice 
+        <li>Apple Juice 
+        <li>Cranberry Juice 
+        <li>Selzter Water
+    </ul>
+    
+    <h3>Extra Food & Snacks</h3>
+    <img src= "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/cake.png" width="130">
+    
+    <ol>
+        <li>Ramen</li>
+        <li>Pastries</li>
+        <li>Gummy Bears</li>
+    </ol> 
+        
+    </body>
+</html> 
